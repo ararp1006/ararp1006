@@ -1,5 +1,5 @@
-## Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&text=WELCOME!&animation=fadeIn&fontColor=FFFFFF&desc=ararp1006's%20Profile&fontAlign=75&fontAlignY=40&height=200&descAlign=90)
+ 
 
 ### 😃ABOUT ME
 
