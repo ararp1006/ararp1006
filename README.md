@@ -3,7 +3,10 @@
 </div>
 <div align="center">
 
-![image](https://github.com/ararp1006/ararp1006/assets/130068083/30fda546-03de-4fdd-b3d4-57f43f1e9961)
+<img src = "https://github.com/ararp1006/ararp1006/assets/130068083/30fda546-03de-4fdd-b3d4-57f43f1e9961" width="80%" />
+
+
+
 </div>
 <div align="center">
 <h2>About Me</h2>
