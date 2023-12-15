@@ -4,22 +4,14 @@
 <div align="center">
 
  
-<img src ="https://github.com/ararp1006/ararp1006/assets/130068083/6ff749f1-b446-4031-863d-dc08c1a6dc9a.gif" width="80%" />
+<img src ="https://github.com/ararp1006/ararp1006/assets/130068083/9b0facc8-0b2a-4db8-84fd-5fe556ca631d" width="80%" />
 
 </div>
 
 <div align="center">
 <h2>About Me</h2>
 
-## **💌 email : ararp1006@gmail.com**
-## **[📚blog](https://ararp1006.github.io)**
-## **[📃portfolio]([https://ararp1006.github.io](https://ararp1006.github.io/portfolio/))**
-
-<br>
-
-<h2>🔥 STUDY 🔥</h2>
-<br>
-<br>
+## **💌 email : ararp1006@gmail.com** <br><br> **[📚blog](https://ararp1006.github.io)** <br><br>  **[📃portfolio](https://ararp1006.github.io/portfolio/)**<br><h2>🔥SKILLS🔥</h2>
 <img src ="https://img.shields.io/badge/Java-8A2BE2"/>
 <img src ="https://img.shields.io/badge/Spring-8A2BE?style=flat&logo=Spring&logoColor=white"/>
 <img src ="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
